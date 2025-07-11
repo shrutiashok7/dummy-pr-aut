@@ -12,6 +12,10 @@ def cube(a):
 #test 04
 def power(x, y):
     return x ** y
+#test 05
+def modulo(a, b):
+    return a % b
+
 
 
 
