@@ -15,6 +15,14 @@ def power(x, y):
 #test 05
 def modulo(a, b):
     return a % b
+#test 06
+import math
+
+def sqrt(a):
+    if a < 0:
+        raise ValueError("Cannot take square root of negative number")
+    return math.sqrt(a)
+
 
 
 
