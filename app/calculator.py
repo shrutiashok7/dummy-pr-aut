@@ -9,6 +9,10 @@ def square(x):
 #test 03
 def cube(a):
     return a * a * a
+#test 04
+def power(x, y):
+    return x ** y
+
 
 
 
