@@ -6,5 +6,9 @@ def subtract(a, b):
 #test 02
 def square(x):
     return x * x
+#test 03
+def cube(a):
+    return a * a * a
+
 
 
