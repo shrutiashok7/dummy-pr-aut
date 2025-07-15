@@ -22,6 +22,14 @@ def sqrt(a):
     if a < 0:
         raise ValueError("Cannot take square root of negative number")
     return math.sqrt(a)
+#test 07
+def percentage(part, whole):
+    return (part / whole) * 100
+#test08
+print ("test 8")
+#test 09
+print ("test 9")
+
 
 
 
