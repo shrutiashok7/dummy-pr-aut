@@ -38,6 +38,8 @@ def average(*args):
     return sum(args) / len(args)
 #test 12
 print ("test 12")
+#test 13
+print ("test 13")
 
 
 
