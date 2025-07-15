@@ -36,6 +36,8 @@ def average(*args):
     if not args:
         raise ValueError("At least one number is required")
     return sum(args) / len(args)
+#test 12
+print ("test 12")
 
 
 
