@@ -46,6 +46,17 @@ print ("test 14")
 #test 15
 print ("test 15")
 
+# test 16
+def max_of_list(numbers):
+    """
+    Returns the maximum number in a list.
+    Raises ValueError if the list is empty.
+    """
+    if not numbers:
+        raise ValueError("List cannot be empty")
+    return max(numbers)
+
+
 
 
 
