@@ -77,15 +77,5 @@ print ("test 29")
 def subtract_numbers(a, b):
     return a - b
 
-#test 33
-print ("removed/swapped tests 31 and 32 to 33!")
-
-#test 35
-print ("test 35: removed comment test 34, pr no.: 21")
-
-#test 37
-print ("test 37: +test 36, pr no.: 24")
-
-#test 40
-print ("test 40: removed tests 38 and 39 pr no.: 26")
-
+#test41
+print ("final test: removed tests: 33, 35, 37, 40.")
